@@ -1,0 +1,15 @@
+2018-10-28 11:52:10 [INFO ] this is service log info
+2018-10-28 11:52:10 [WARN ] this is service log warning
+2018-10-28 11:52:10 [ERROR] this is service log error
+2018-10-28 11:57:06 [INFO ] this is service log info
+2018-10-28 11:57:06 [WARN ] this is service log warning
+2018-10-28 11:57:06 [ERROR] this is service log error
+2018-10-28 11:57:28 [INFO ] this is service log info
+2018-10-28 11:57:28 [WARN ] this is service log warning
+2018-10-28 11:57:28 [ERROR] this is service log error
+2018-10-28 11:58:52 [INFO ] this is service log info
+2018-10-28 11:58:52 [WARN ] this is service log warning
+2018-10-28 11:58:52 [ERROR] this is service log error
+2018-10-28 12:40:05 [INFO ] this is service log info
+2018-10-28 12:40:05 [WARN ] this is service log warning
+2018-10-28 12:40:05 [ERROR] this is service log error

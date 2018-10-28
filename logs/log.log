@@ -1,0 +1,305 @@
+2018-10-27 21:21:42 [INFO ] logger1
+2018-10-27 21:21:42 [INFO ] logger2
+2018-10-27 21:21:42 [INFO ] logger3
+2018-10-27 21:22:35 [INFO ] logger1
+2018-10-27 21:22:35 [INFO ] logger2
+2018-10-27 21:25:33 [INFO ] logger1
+2018-10-27 21:25:33 [INFO ] logger2
+2018-10-27 21:25:33 [INFO ] logger3
+2018-10-27 21:26:26 [INFO ] logger1
+2018-10-27 21:26:26 [INFO ] logger2
+2018-10-27 21:26:26 [INFO ] logger3
+2018-10-27 21:26:26 [DEBUG] debug info
+2018-10-27 21:27:56 [INFO ] logger3
+2018-10-27 21:27:56 [DEBUG] debug info
+2018-10-27 21:32:50 [INFO ] logger1
+2018-10-27 21:32:50 [INFO ] logger2
+2018-10-27 21:32:50 [INFO ] logger3
+2018-10-27 21:34:04 [INFO ] logger1
+2018-10-27 21:34:04 [INFO ] logger2
+2018-10-27 21:34:04 [INFO ] logger3
+2018-10-27 21:35:08 [INFO ] logger1
+2018-10-27 21:35:08 [INFO ] logger2
+2018-10-27 21:35:08 [INFO ] logger3
+2018-10-27 21:36:20 [INFO ] logger3
+2018-10-27 21:36:20 [DEBUG] debug info
+2018-10-27 21:38:27 [INFO ] logger2
+2018-10-27 21:38:27 [INFO ] logger3
+2018-10-27 21:44:45 [INFO ] logger3
+2018-10-27 21:48:56 [INFO ] logger2
+2018-10-27 21:56:59 [INFO ] logger1
+2018-10-27 21:57:50 [INFO ] logger1
+2018-10-27 21:57:50 [INFO ] logger3
+2018-10-27 21:59:19 [INFO ] logger1
+2018-10-27 21:59:19 [INFO ] logger3
+2018-10-27 22:02:49 [INFO ] logger1
+2018-10-27 22:11:25 [INFO ] this is service log info
+2018-10-27 22:11:25 [WARN ] this is service log warning
+2018-10-27 22:11:25 [ERROR] this is service log error
+2018-10-27 22:11:25 [INFO ] this is viewer log info
+2018-10-27 22:11:25 [WARN ] this is viewer log warning
+2018-10-27 22:11:25 [ERROR] this is viewer log error
+2018-10-27 22:14:39 [INFO ] this is service log info
+2018-10-27 22:14:39 [WARN ] this is service log warning
+2018-10-27 22:14:39 [ERROR] this is service log error
+2018-10-27 22:14:39 [INFO ] this is viewer log info
+2018-10-27 22:14:39 [WARN ] this is viewer log warning
+2018-10-27 22:14:39 [ERROR] this is viewer log error
+2018-10-27 22:15:18 [INFO ] this is service log info
+2018-10-27 22:15:18 [WARN ] this is service log warning
+2018-10-27 22:15:18 [ERROR] this is service log error
+2018-10-27 22:15:18 [INFO ] this is viewer log info
+2018-10-27 22:15:18 [WARN ] this is viewer log warning
+2018-10-27 22:15:18 [ERROR] this is viewer log error
+2018-10-27 22:20:00 [INFO ] this is service log info
+2018-10-27 22:20:00 [WARN ] this is service log warning
+2018-10-27 22:20:00 [ERROR] this is service log error
+2018-10-27 22:20:00 [INFO ] this is viewer log info
+2018-10-27 22:20:00 [WARN ] this is viewer log warning
+2018-10-27 22:20:00 [ERROR] this is viewer log error
+2018-10-27 22:20:56 [WARN ] this is service log warning
+2018-10-27 22:20:56 [ERROR] this is service log error
+2018-10-27 22:20:56 [WARN ] this is viewer log warning
+2018-10-27 22:20:56 [ERROR] this is viewer log error
+2018-10-27 22:27:13 [WARN ] this is service log warning
+2018-10-27 22:27:13 [ERROR] this is service log error
+2018-10-27 22:27:13 [WARN ] this is viewer log warning
+2018-10-27 22:27:13 [ERROR] this is viewer log error
+2018-10-27 22:42:42 [WARN ] this is service log warning
+2018-10-27 22:42:42 [ERROR] this is service log error
+2018-10-27 22:42:42 [WARN ] this is viewer log warning
+2018-10-27 22:42:42 [ERROR] this is viewer log error
+2018-10-27 22:43:44 [WARN ] this is service log warning
+2018-10-27 22:43:44 [ERROR] this is service log error
+2018-10-27 22:43:44 [WARN ] this is viewer log warning
+2018-10-27 22:43:44 [ERROR] this is viewer log error
+2018-10-27 22:44:00 [WARN ] this is service log warning
+2018-10-27 22:44:00 [ERROR] this is service log error
+2018-10-27 22:44:00 [WARN ] this is viewer log warning
+2018-10-27 22:44:00 [ERROR] this is viewer log error
+2018-10-27 22:45:19 [WARN ] this is service log warning
+2018-10-27 22:45:19 [ERROR] this is service log error
+2018-10-27 22:45:19 [WARN ] this is viewer log warning
+2018-10-27 22:45:19 [ERROR] this is viewer log error
+2018-10-27 22:45:38 [WARN ] this is service log warning
+2018-10-27 22:45:38 [ERROR] this is service log error
+2018-10-27 22:45:38 [WARN ] this is viewer log warning
+2018-10-27 22:45:38 [ERROR] this is viewer log error
+2018-10-27 22:47:21 [INFO ] this is root logger info
+2018-10-27 22:47:21 [INFO ] this is service log info
+2018-10-27 22:47:21 [WARN ] this is service log warning
+2018-10-27 22:47:21 [ERROR] this is service log error
+2018-10-27 22:47:21 [INFO ] this is viewer log info
+2018-10-27 22:47:21 [WARN ] this is viewer log warning
+2018-10-27 22:47:21 [ERROR] this is viewer log error
+2018-10-27 22:53:44 [INFO ] Running Spark version 2.2.1
+2018-10-27 22:53:45 [WARN ] Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2018-10-27 22:53:45 [INFO ] Submitted application: SparkLogTest
+2018-10-27 22:53:45 [INFO ] Changing view acls to: guo
+2018-10-27 22:53:45 [INFO ] Changing modify acls to: guo
+2018-10-27 22:53:45 [INFO ] Changing view acls groups to: 
+2018-10-27 22:53:45 [INFO ] Changing modify acls groups to: 
+2018-10-27 22:53:45 [INFO ] SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(guo); groups with view permissions: Set(); users  with modify permissions: Set(guo); groups with modify permissions: Set()
+2018-10-27 22:53:45 [INFO ] Successfully started service 'sparkDriver' on port 59993.
+2018-10-27 22:53:45 [INFO ] Registering MapOutputTracker
+2018-10-27 22:53:45 [INFO ] Registering BlockManagerMaster
+2018-10-27 22:53:45 [INFO ] Using org.apache.spark.storage.DefaultTopologyMapper for getting topology information
+2018-10-27 22:53:45 [INFO ] BlockManagerMasterEndpoint up
+2018-10-27 22:53:45 [INFO ] Created local directory at C:\Users\guo\AppData\Local\Temp\blockmgr-a90daff1-2b68-4035-8e81-4ca394c2a499
+2018-10-27 22:53:45 [INFO ] MemoryStore started with capacity 901.8 MB
+2018-10-27 22:53:46 [INFO ] Registering OutputCommitCoordinator
+2018-10-27 22:53:46 [INFO ] Logging initialized @2071ms
+2018-10-27 22:53:46 [INFO ] jetty-9.3.z-SNAPSHOT
+2018-10-27 22:53:46 [INFO ] Started @2142ms
+2018-10-27 22:53:46 [INFO ] Started ServerConnector@631e06ab{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+2018-10-27 22:53:46 [INFO ] Successfully started service 'SparkUI' on port 4040.
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@3b77a04f{/jobs,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@58ebfd03{/jobs/json,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@40499e4f{/jobs/job,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@40f1be1b{/jobs/job/json,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@556d0826{/stages,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@666b83a4{/stages/json,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@2b95e48b{/stages/stage,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@12bfd80d{/stages/stage/json,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@6c6c5427{/stages/pool,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@1d8062d2{/stages/pool/json,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@388ba540{/storage,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@7894f09b{/storage/json,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@5b11a194{/storage/rdd,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@4721d212{/storage/rdd/json,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@654d8173{/environment,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@f79a760{/environment/json,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@2bef51f2{/executors,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@4f2c9ba6{/executors/json,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@4c37b5b{/executors/threadDump,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@150ab4ed{/executors/threadDump/json,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@5ce33a58{/static,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@5d018107{/,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@269f4bad{/api,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@7829b776{/jobs/job/kill,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@1c80e49b{/stages/stage/kill,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Bound SparkUI to 0.0.0.0, and started at http://192.168.171.1:4040
+2018-10-27 22:53:46 [INFO ] Starting executor ID driver on host localhost
+2018-10-27 22:53:46 [INFO ] Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 60010.
+2018-10-27 22:53:46 [INFO ] Server created on 192.168.171.1:60010
+2018-10-27 22:53:46 [INFO ] Using org.apache.spark.storage.RandomBlockReplicationPolicy for block replication policy
+2018-10-27 22:53:46 [INFO ] Registering BlockManager BlockManagerId(driver, 192.168.171.1, 60010, None)
+2018-10-27 22:53:46 [INFO ] Registering block manager 192.168.171.1:60010 with 901.8 MB RAM, BlockManagerId(driver, 192.168.171.1, 60010, None)
+2018-10-27 22:53:46 [INFO ] Registered BlockManager BlockManagerId(driver, 192.168.171.1, 60010, None)
+2018-10-27 22:53:46 [INFO ] Initialized BlockManager: BlockManagerId(driver, 192.168.171.1, 60010, None)
+2018-10-27 22:53:46 [INFO ] Started o.s.j.s.ServletContextHandler@456abb66{/metrics/json,null,AVAILABLE,@Spark}
+2018-10-27 22:53:46 [INFO ] Invoking stop() from shutdown hook
+2018-10-27 22:53:46 [INFO ] Stopped Spark@631e06ab{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}
+2018-10-27 22:53:46 [INFO ] Stopped Spark web UI at http://192.168.171.1:4040
+2018-10-27 22:53:46 [INFO ] MapOutputTrackerMasterEndpoint stopped!
+2018-10-27 22:53:46 [INFO ] MemoryStore cleared
+2018-10-27 22:53:46 [INFO ] BlockManager stopped
+2018-10-27 22:53:46 [INFO ] BlockManagerMaster stopped
+2018-10-27 22:53:46 [INFO ] OutputCommitCoordinator stopped!
+2018-10-27 22:53:46 [INFO ] Successfully stopped SparkContext
+2018-10-27 22:53:46 [INFO ] Shutdown hook called
+2018-10-27 22:53:46 [INFO ] Deleting directory C:\Users\guo\AppData\Local\Temp\spark-bb6feff6-fbaf-42ec-9053-09370764e1b7
+2018-10-27 23:17:48 [INFO ] this is root logger info
+2018-10-27 23:17:48 [INFO ] this is service log info
+2018-10-27 23:17:48 [WARN ] this is service log warning
+2018-10-27 23:17:48 [ERROR] this is service log error
+2018-10-27 23:17:48 [INFO ] this is viewer log info
+2018-10-27 23:17:48 [WARN ] this is viewer log warning
+2018-10-27 23:17:48 [ERROR] this is viewer log error
+2018-10-27 23:18:15 [INFO ] this is root logger info
+2018-10-27 23:18:15 [INFO ] this is service log info
+2018-10-27 23:18:15 [WARN ] this is service log warning
+2018-10-27 23:18:15 [ERROR] this is service log error
+2018-10-27 23:18:15 [INFO ] this is viewer log info
+2018-10-27 23:18:15 [WARN ] this is viewer log warning
+2018-10-27 23:18:15 [ERROR] this is viewer log error
+2018-10-27 23:18:51 [INFO ] this is root logger info
+2018-10-27 23:18:51 [INFO ] this is service log info
+2018-10-27 23:18:51 [WARN ] this is service log warning
+2018-10-27 23:18:51 [ERROR] this is service log error
+2018-10-27 23:18:51 [INFO ] this is viewer log info
+2018-10-27 23:18:51 [WARN ] this is viewer log warning
+2018-10-27 23:18:51 [ERROR] this is viewer log error
+2018-10-27 23:21:17 [INFO ] this is root logger info
+2018-10-27 23:21:17 [INFO ] this is service log info
+2018-10-27 23:21:17 [WARN ] this is service log warning
+2018-10-27 23:21:17 [ERROR] this is service log error
+2018-10-27 23:21:17 [INFO ] this is viewer log info
+2018-10-27 23:21:17 [WARN ] this is viewer log warning
+2018-10-27 23:21:17 [ERROR] this is viewer log error
+2018-10-27 23:24:22 [INFO ] this is root logger info
+2018-10-27 23:24:22 [INFO ] this is service log info
+2018-10-27 23:24:22 [WARN ] this is service log warning
+2018-10-27 23:24:22 [ERROR] this is service log error
+2018-10-27 23:24:22 [INFO ] this is viewer log info
+2018-10-27 23:24:22 [WARN ] this is viewer log warning
+2018-10-27 23:24:22 [ERROR] this is viewer log error
+2018-10-27 23:25:28 [INFO ] this is root logger info
+2018-10-27 23:25:28 [INFO ] this is service log info
+2018-10-27 23:25:28 [WARN ] this is service log warning
+2018-10-27 23:25:28 [ERROR] this is service log error
+2018-10-27 23:25:28 [INFO ] this is viewer log info
+2018-10-27 23:25:28 [WARN ] this is viewer log warning
+2018-10-27 23:25:28 [ERROR] this is viewer log error
+2018-10-27 23:26:29 [INFO ] this is root logger info
+2018-10-27 23:26:29 [INFO ] this is service log info
+2018-10-27 23:26:29 [WARN ] this is service log warning
+2018-10-27 23:26:29 [ERROR] this is service log error
+2018-10-27 23:26:29 [INFO ] this is viewer log info
+2018-10-27 23:26:29 [WARN ] this is viewer log warning
+2018-10-27 23:26:29 [ERROR] this is viewer log error
+2018-10-27 23:26:38 [INFO ] this is root logger info
+2018-10-27 23:26:38 [INFO ] this is service log info
+2018-10-27 23:26:38 [WARN ] this is service log warning
+2018-10-27 23:26:38 [ERROR] this is service log error
+2018-10-27 23:26:38 [INFO ] this is viewer log info
+2018-10-27 23:26:38 [WARN ] this is viewer log warning
+2018-10-27 23:26:38 [ERROR] this is viewer log error
+2018-10-27 23:27:41 [INFO ] this is root logger info
+2018-10-27 23:27:41 [INFO ] this is service log info
+2018-10-27 23:27:41 [WARN ] this is service log warning
+2018-10-27 23:27:41 [ERROR] this is service log error
+2018-10-27 23:27:41 [INFO ] this is viewer log info
+2018-10-27 23:27:41 [WARN ] this is viewer log warning
+2018-10-27 23:27:41 [ERROR] this is viewer log error
+2018-10-27 23:30:52 [INFO ] this is root logger info
+2018-10-27 23:30:52 [INFO ] this is service log info
+2018-10-27 23:30:52 [WARN ] this is service log warning
+2018-10-27 23:30:52 [ERROR] this is service log error
+2018-10-27 23:30:52 [INFO ] this is viewer log info
+2018-10-27 23:30:52 [WARN ] this is viewer log warning
+2018-10-27 23:30:52 [ERROR] this is viewer log error
+2018-10-28 10:17:03 [INFO ] this is root logger info
+2018-10-28 10:17:03 [INFO ] this is service log info
+2018-10-28 10:17:03 [WARN ] this is service log warning
+2018-10-28 10:17:03 [ERROR] this is service log error
+2018-10-28 10:17:03 [INFO ] this is viewer log info
+2018-10-28 10:17:03 [WARN ] this is viewer log warning
+2018-10-28 10:17:03 [ERROR] this is viewer log error
+2018-10-28 10:17:21 [INFO ] logger1
+2018-10-28 10:17:21 [INFO ] logger3
+2018-10-28 10:21:40 [INFO ] logger1
+2018-10-28 10:21:40 [INFO ] logger3
+2018-10-28 10:28:15 [INFO ] logger1
+2018-10-28 10:28:15 [INFO ] logger3
+2018-10-28 10:30:19 [INFO ] logger1
+2018-10-28 10:42:42 [INFO ] logger1
+2018-10-28 10:42:59 [INFO ] logger1
+2018-10-28 10:43:38 [INFO ] logger1
+2018-10-28 10:44:14 [INFO ] logger1
+2018-10-28 11:07:32 [INFO ] this is root logger info
+2018-10-28 11:07:32 [INFO ] this is service log info
+2018-10-28 11:07:32 [WARN ] this is service log warning
+2018-10-28 11:07:32 [ERROR] this is service log error
+2018-10-28 11:07:32 [INFO ] this is viewer log info
+2018-10-28 11:07:32 [WARN ] this is viewer log warning
+2018-10-28 11:07:32 [ERROR] this is viewer log error
+2018-10-28 11:09:49 [INFO ] this is root logger info
+2018-10-28 11:09:49 [INFO ] this is service log info
+2018-10-28 11:09:49 [WARN ] this is service log warning
+2018-10-28 11:09:49 [ERROR] this is service log error
+2018-10-28 11:09:49 [INFO ] this is viewer log info
+2018-10-28 11:09:49 [WARN ] this is viewer log warning
+2018-10-28 11:09:49 [ERROR] this is viewer log error
+2018-10-28 11:11:47 [INFO ] this is root logger info
+2018-10-28 11:16:22 [INFO ] logger1
+2018-10-28 11:17:14 [INFO ] logger1
+2018-10-28 11:23:26 [INFO ] logger1
+2018-10-28 11:23:26 [INFO ] logger3
+2018-10-28 11:24:19 [INFO ] logger1
+2018-10-28 11:26:42 [INFO ] logger3
+2018-10-28 11:27:39 [INFO ] logger1
+2018-10-28 11:27:57 [INFO ] logger3
+2018-10-28 11:52:10 [INFO ] this is root logger info
+2018-10-28 11:52:10 [INFO ] this is service log info
+2018-10-28 11:52:10 [WARN ] this is service log warning
+2018-10-28 11:52:10 [ERROR] this is service log error
+2018-10-28 11:52:10 [INFO ] this is viewer log info
+2018-10-28 11:52:10 [WARN ] this is viewer log warning
+2018-10-28 11:52:10 [ERROR] this is viewer log error
+2018-10-28 11:57:06 [INFO ] this is service log info
+2018-10-28 11:57:06 [WARN ] this is service log warning
+2018-10-28 11:57:06 [ERROR] this is service log error
+2018-10-28 11:57:06 [INFO ] this is viewer log info
+2018-10-28 11:57:06 [WARN ] this is viewer log warning
+2018-10-28 11:57:06 [ERROR] this is viewer log error
+2018-10-28 11:58:52 [INFO ] this is root logger info
+2018-10-28 11:58:52 [INFO ] this is service log info
+2018-10-28 11:58:52 [WARN ] this is service log warning
+2018-10-28 11:58:52 [ERROR] this is service log error
+2018-10-28 11:58:52 [INFO ] this is viewer log info
+2018-10-28 11:58:52 [WARN ] this is viewer log warning
+2018-10-28 11:58:52 [ERROR] this is viewer log error
+2018-10-28 12:40:05 [INFO ] this is root logger info
+2018-10-28 12:40:31 [INFO ] logger1
+2018-10-28 12:40:31 [INFO ] logger3
+2018-10-28 12:44:46 [INFO ] logger1
+2018-10-28 12:49:23 [INFO ] logger3
+2018-10-28 12:49:31 [INFO ] logger1
+2018-10-28 12:51:52 [INFO ] logger3
+2018-10-28 12:52:02 [INFO ] logger1
+2018-10-28 12:56:27 [INFO ] logger3
+2018-10-28 12:56:34 [INFO ] logger1
+2018-10-28 13:01:29 [INFO ] logger3
+2018-10-28 13:07:27 [INFO ] logger1
+2018-10-28 13:07:38 [INFO ] logger3
