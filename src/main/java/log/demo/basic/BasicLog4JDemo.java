@@ -9,6 +9,14 @@ public class BasicLog4JDemo {
         // NDC.push(InetAddress.getLocalHost().getHostAddress());
         MDC.put("user", "Guo");
         PropertyConfigurator.configure( "conf/log4j.properties" );
+
+        /**
+         * The PropertyConfigurator does not handle the advanced configuration features
+         * supported by the DOMConfigurator as support custom ErrorHandlers,
+         * nested appenders such as the AsyncAppender, etc.
+         *
+         */
+//        DOMConfigurator.configure("conf/log4j.properties");
     }
 
     public static void main(String[] args){
@@ -38,9 +46,12 @@ public class BasicLog4JDemo {
         ConsoleAppender consoleAppender2 = new ConsoleAppender(new PatternLayout("%c - %m%n"), "System.out");
         ConsoleAppender consoleAppender3 = new ConsoleAppender(new PatternLayout("%c - %m%n"), "System.out");
 
+
         Priority priority1 = consoleAppender1.getThreshold();
         Priority priority2 = consoleAppender2.getThreshold();
         Priority priority3 = consoleAppender3.getThreshold();
+
+
 
         logger1.addAppender(consoleAppender1);
         logger2.addAppender(consoleAppender2);
@@ -53,7 +64,11 @@ public class BasicLog4JDemo {
         System.out.println("console2's threshold:" + priority2);
         System.out.println("console3's threshold:" + priority3);
 
+//        StringMatchFilter;
+//        LevelRangeFilter;
+//        LevelMatchFilter
         logger1.info("logger1");
+        logger1.error("Error message");
         logger2.info("logger2");
         logger3.info("logger3");
         logger1.isTraceEnabled();
