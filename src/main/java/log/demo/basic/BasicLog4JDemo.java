@@ -1,10 +1,6 @@
 package log.demo.basic;
 
 import org.apache.log4j.*;
-import org.apache.log4j.pattern.LogEvent;
-import sun.rmi.runtime.Log;
-
-import java.net.InetAddress;
 
 public class BasicLog4JDemo {
 
@@ -60,6 +56,7 @@ public class BasicLog4JDemo {
         logger1.info("logger1");
         logger2.info("logger2");
         logger3.info("logger3");
+        logger1.isTraceEnabled();
 
 //        Thread.setDefaultUncaughtExceptionHandler(new Thread.UncaughtExceptionHandler() {
 //            public void uncaughtException(Thread t, Throwable e) {

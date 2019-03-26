@@ -5,8 +5,6 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaSparkContext;
-import org.apache.spark.executor.Executor;
-import org.apache.spark.ui.SparkUI;
 
 public class SparkLogDemo {
     public static void main(String[] args) {
@@ -22,7 +20,7 @@ public class SparkLogDemo {
         System.out.println("logger3's parent:" + logger3.getParent().getName());
 
 
-//        logger1.setLevel(Level.INFO);
+       // logger1.setLevel(Level.INFO);
         logger2.setLevel(Level.WARN);
         logger3.setLevel(Level.INFO);
         System.out.println("logger1's level:" + logger1.getLevel());
@@ -34,7 +32,7 @@ public class SparkLogDemo {
         logger3.info("this is from logger3");
 
         while (true) {}
-//        LogImp logImp = new LogImp();
+       // LogImp logImp = new LogImp();
     }
 
     public static void initSparkContext() {
